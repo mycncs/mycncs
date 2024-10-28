@@ -10,7 +10,6 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 
 </div>
 
-- 💼 Interested in working together? Reach out to me via <a href="mailto:code@aar.one">email.</a>
 - 💬 Got a question or just curious about something? Feel free to ask!
 
 <div class="badges-intro">
